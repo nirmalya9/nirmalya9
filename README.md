@@ -2,11 +2,9 @@
 
 <h1 align="center">
   <a href="https://github.com/nirmalyapatra" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2300A0A0&size=26&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Nirmalya;I+speak+fluent+sarcasm+—+with+the+compiler" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2300A0A0&size=26&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Nirmalya;I+speak+fluent+sarcasm+with+the+compiler+%3A)" alt="Typing SVG" />
   </a>
 </h1>
-
-
 
 <h3 align="center">from odisha, india</h3> <br>
 
