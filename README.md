@@ -1,4 +1,4 @@
-<h1 align="center">Nirmalya</h1>
+<h1 align="center">nirmalya</h1>
 
 <p align="center">
   📍 Odisha, India
