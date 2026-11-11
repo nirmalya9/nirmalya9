@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  DSA, Agentic AI
+  DSA, Gen AI, Agentic AI
 </p>
